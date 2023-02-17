@@ -1,0 +1,16 @@
+{
+  "name": "sarojwithcode",
+  "version": "1.0.0",
+  "description": "This  has been created while creating json-file inside express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module": "^1.2.5",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
